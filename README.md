@@ -10,3 +10,6 @@ pip install -r requirements.txt
 ```python
 python3 main.py
 ```
+
+# References
+Medium article <https://medium.com/@anuragmishra_27746/hands-on-build-agentic-workflow-using-langgraph-key-learnings-from-langchain-academy-part-1-9ad96d6c9210>
